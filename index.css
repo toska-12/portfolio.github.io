@@ -15,3 +15,12 @@ width:960px;
 margin:20px;
 text-align:center;
 }
+.logo
+{
+width:600px;
+float:left;
+text-align:left;
+font-size:70px;
+font-family: "Josefin Sans" , sans-serif;
+}
+
