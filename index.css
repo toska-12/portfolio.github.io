@@ -34,4 +34,9 @@ text-align:left;
 {
 clear:both;
 }
+.square
+{
+width:50%;
+float:left;
+}
 
