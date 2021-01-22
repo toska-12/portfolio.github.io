@@ -91,3 +91,15 @@ text-align:center;
 { 
 background-color:#82b637;
 }
+.tile4
+{
+margin:10px;
+width:420px;
+height:82px;
+background-color:#EE5A32;
+text-align:center;
+font-size:26px;
+padding:30px;
+line-height:150%;
+}
+	
