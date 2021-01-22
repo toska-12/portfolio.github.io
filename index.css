@@ -39,4 +39,16 @@ clear:both;
 width:50%;
 float:left;
 }
-
+a.tilelink 
+{
+color:white;
+text-decoration:none;
+display:block;
+width:230px;
+height:142px;
+}
+a.tilelinkhtml5
+{
+color:white;
+text-decoration:none;
+}
